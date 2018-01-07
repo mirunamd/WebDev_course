@@ -1,0 +1,40 @@
+/* add your CSS here */
+.card_content{
+	width: 300px;
+
+	border: 1px;
+	border-style: solid;
+	border-color: grey;
+	
+	padding: 10px;
+	
+}
+
+.dog_img{ 
+    width: 300px; 
+}
+
+.animal_info{
+	margin: auto;
+
+	width: 290px;
+
+	border: 1px;
+	border-style: solid;
+	border-color: grey; 
+	
+	padding: 5px;
+}
+
+.int_fact{
+	font-style: italic;
+}
+
+.list{
+	list-style-type: none;
+	padding: 0;
+}
+
+span{
+	font-weight: bold;	
+}
